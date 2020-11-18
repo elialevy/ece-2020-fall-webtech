@@ -49,3 +49,4 @@ Material-UI is the most popular React UI framework based on the Material Design 
 * [Material-UI](https://material-ui.com/), 10 videos, around 3-5mn each
 * [Learn Material-UI](https://material-ui.com/getting-started/learn/)
 * [Introduction to Material-UI](https://www.youtube.com/watch?v=pHclLuRolzE&list=PLQg6GaokU5CwiVmsZ0d_9Zsg_DnIP_xwr), video, 16mn.
+* [Palette Material UI] (https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=FFEBEE&secondary.color=B2DFDB)
